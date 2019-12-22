@@ -4,3 +4,5 @@ X32.3.0 production client, grabbed off [static drips](https://static.drips.pw/ro
 This is to be used with [Flex SDK 4.9.1](https://archive.apache.org/dist/flex/4.9.1/binaries/).
 
 See how I did it [here](https://github.com/BurgerLoverMx/X31.1.2/commits/master) (follow the commits).
+
+Version X32.4.0 can be found [here](https://github.com/BurgerLoverMx/X32.4.0).
